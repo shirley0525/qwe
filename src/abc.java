@@ -10,6 +10,6 @@
  */
 public class abc {
     public static void main(String[] args){
-        System.out.printfxxx("abc");
+        System.out.printf("abc");
     }
 }
